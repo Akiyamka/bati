@@ -15,11 +15,11 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.19.9",
-    "typescript": "^5.9.2",
+    "typescript": "^5.9.3",
     "unplugin-purge-polyfills": "^0.1.0"
   },
   "dependencies": {
-    "esbuild": "^0.25.9",
+    "esbuild": "^0.25.10",
     "globby": "^14.1.0",
     "tsc-prog": "^2.3.0",
     "tsup": "^8.5.0"
